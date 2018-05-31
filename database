@@ -1,0 +1,16 @@
+42,{"name":"Paris","attractions":["Eifel Tower","Louvre"]}
+43,{"name":"New York","attractions":["Brooklyn Bridge","Statue of Liberty","Central Park"]}
+44,{"name":"London","attractions":["Big Ben","Buckingham Palace"]}
+42,{"name":"Paris","attractions":["Eifel Tower","Louvre","Champs Elysee"]}
+42,{"name":"Paris","attractions":["Eifel Tower","Louvre"]}
+43,{"name":"New York","attractions":["Brooklyn Bridge","Statue of Liberty","Central Park"]}
+44,{"name":"London","attractions":["Big Ben","Buckingham Palace"]}
+42,{"name":"Paris","attractions":["Eifel Tower","Louvre","Champs Elysee"]}
+42,{"name":"Paris","attractions":["Eifel Tower","Louvre"]}
+43,{"name":"New York","attractions":["Brooklyn Bridge","Statue of Liberty","Central Park"]}
+44,{"name":"London","attractions":["Big Ben","Buckingham Palace"]}
+42,{"name":"Paris","attractions":["Eifel Tower","Louvre","Champs Elysee"]}
+01,hello,world
+chats,121
+calls,2560
+emails,23
